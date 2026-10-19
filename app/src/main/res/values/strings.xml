@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">yt-dlp Direct</string>
+    <string name="share_label">Download with yt-dlp</string>
+</resources>
